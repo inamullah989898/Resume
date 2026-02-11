@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h1:hover{
+    color: rgb(4, 109, 4);
+}
+p{
+    color: green;
+}
+.most{
+    color: rgb(196, 28, 39);
+}
+.most:hover{
+    color: rgb(99, 22, 208);
+}
+.location{
+    color: rgb(86, 150, 23);
+}
+#location{
+    color: rgb(79, 25, 130);
+}
+#web{ 
+    color: rgb(78, 14, 139);
+}

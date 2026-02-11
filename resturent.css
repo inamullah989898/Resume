@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(139, 241, 139);
+    /*  * (seteric called universal selecter) */
+}
+h1{
+    color: rgb(227, 45, 45);
+    /* element selecter */
+    background-color: rgb(243, 243, 134);
+}
+h2{
+    color: rgb(207, 145, 28);
+    background-color: blanchedalmond;
+}
+li{
+    color: rgb(31, 31, 185);
+}
+ /* class selecter (used .) give name to the element which is class */
+
+ /* id selecter (used #) give name to the element which is id  */
+
+ /* attribute selscter [amin] give name to the attribute  */
+
+ /* case kade last one will be selected  */
+ 

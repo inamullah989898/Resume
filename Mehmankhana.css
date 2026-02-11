@@ -1,0 +1,99 @@
+
+body{
+ background-color: rgb(181, 235, 100);
+}
+h1{
+    color: red;
+    text-align: center;
+    background-color: yellow;
+  margin-bottom: -12px;
+    height: 50px;
+    font-size: 43px;
+    padding: 17px;
+    font-weight: bold;
+}
+h2{
+ color: blue;
+    background-color: aquamarine;
+    text-align: center;
+     margin-bottom: -12px;
+    height: 50px;
+    font-size: 43px;
+    padding: 17px;
+    font-weight: bold;
+}
+.nea{
+     color: rgb(255, 0, 38);
+    background-color: rgb(231, 143, 214);
+    text-align: center;
+     margin-bottom: -12px;
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 17px;
+    font-weight: bold;
+    display: inline-block;
+    width: 600px;
+}
+[src]{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+#nea{
+    font-size: 30px;
+    color: darkgreen;
+}
+#price{
+ font-size: 25px;
+ color: darkgreen;
+}
+.afg{
+     color: rgb(41, 19, 167);
+    background-color: rgb(147, 221, 221);
+    text-align: center;
+     margin-bottom: -12px;
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 17px;
+    font-weight: bold;
+    display: inline-block;
+    width: 600px;
+}
+#afg{
+    font-size: 30px;
+  
+}
+.pak{
+      color: rgb(33, 26, 141);
+    background-color: rgb(210, 221, 147);
+    text-align: center;
+     margin-bottom: -12px;
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 17px;
+    font-weight: bold;
+    display: inline-block;
+    width: 600px;
+}
+#pak{
+    font-size: 30px;
+}
+.tor{
+     color: rgb(133, 15, 37);
+    background-color: rgb(172, 149, 45);
+    text-align: center;
+     margin-bottom: -12px;
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 17px;
+    font-weight: bold;
+    display: inline-block;
+    width: 600px;
+}
+#tor{
+    font-size: 30px;
+}
+span{
+    margin-left: 10px;
+}

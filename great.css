@@ -1,0 +1,18 @@
+*{
+    
+    color: rgb(219, 46, 46);
+    width: 400px;
+    height: 400px;
+    font-size: medium;
+}
+.intro{
+    color: rgb(128, 65, 188);
+    width: 50%;
+    height: 50%;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 20px solid rgb(96, 210, 96);
+    box-sizing: border-box;
+    
+    
+} 

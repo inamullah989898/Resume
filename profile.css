@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(244, 203, 143);
+}
+h1{
+    color: rgb(42, 19, 175);
+    text-align: center;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.edu{
+    color: rgb(42, 32, 154);
+    text-align: center;
+    background-color: yellow;
+}
+#sec{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+#skill{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
